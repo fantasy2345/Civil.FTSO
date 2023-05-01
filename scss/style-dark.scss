@@ -1,4 +1,4 @@
-/* Template Name: Superex - NFT Marketplace HTML Template
+/* Template Name: Civil FTSO - NFT Marketplace HTML Template
    Author: Shreethemes
    E-mail: support@shreethemes.in
    Website: https://shreethemes.in
